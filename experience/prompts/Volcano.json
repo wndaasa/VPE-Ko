@@ -1,0 +1,17 @@
+{
+    "Volcano": [
+        {
+            "type": "user",
+            "prompt": "뜨겁게 타오르는 화산",
+            "negative_prompt": "",
+            "video_path": "../videos/Volcano(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A scorching volcano erupts in a breathtaking display of fiery majesty, its molten lava (flowing down:2.0) the mountain's sides like a river of liquid fire. From above, the camera captures the scene in sweeping aerial shots, emphasizing the scale and intensity of the eruption. The natural light bathes the landscape in an ethereal glow, highlighting the (crimson flames:1.8) that dance and flicker against the night sky. Amidst the chaos, the (molten lava:2.5) surges forth with unstoppable force, creating a mesmerizing spectacle of raw power and beauty. The volcanic ash clouds rise high into the atmosphere, casting a dramatic silhouette against the starlit heavens.",
+            "negative_prompt": "",
+            "video_path": "../videos/Volcano(vpe-ko).mp4"
+        }
+    ]
+}
+

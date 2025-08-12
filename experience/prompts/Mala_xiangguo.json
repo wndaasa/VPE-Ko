@@ -1,0 +1,17 @@
+{
+    "Mala_xiangguo": [
+        {
+            "type": "user",
+            "prompt": "마라샹궈를 맛있게 먹는 갈색 햄스터 영상을 만들어. 햄스터는 젓가락을 이용해서 마라샹궈를 먹고있어.",
+            "negative_prompt": "",
+            "video_path": "../videos/Mala_xiangguo(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A brown hamster sits in front of a Chinese-style red bowl filled with a generous portion of spicy Ma La Xiao Guo. The hamster holds chopsticks naturally in its paws, delicately picking up pieces of the dish. As it savoringly nibbles on the food, a mix of joy and slight discomfort spreads across its face, hinting at the spiciness of the dish. The natural light filters through the scene, casting a warm glow on the hamster and the bowl, creating a cozy and inviting atmosphere. (The hamster's joyful yet slightly uncomfortable expression:2.0), (the natural light:1.5), (the Chinese-style red bowl:1.8) are key elements that bring this whimsical scene to life.",
+            "negative_prompt": "blurry, dark, overexposed",
+            "video_path": "../videos/Mala_xiangguo(vpe-ko).mp4"
+        }
+    ]
+}
+

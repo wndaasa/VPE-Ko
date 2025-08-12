@@ -1,0 +1,17 @@
+{
+    "Camping_with_dog": [
+        {
+            "type": "user",
+            "prompt": "산속에서 강아지와 함께 산책하는 남성의 모습",
+            "negative_prompt": "",
+            "video_path": "../videos/Camping_with_dog(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A young man in his twenties sits by the campfire in a serene pine forest, the golden hues of the sunset casting a warm glow over everything around him. Beside him, a playful puppy frolics in the soft grass, its joyful barks mingling with the crackle of the fire. (The campfire:2.5) flickers gently, its dancing flames illuminating the man’s content smile as he gazes into the distance. The camera captures this intimate moment in a close-up shot, (the man's face:2.0) framed against the warm backdrop of the (pine trees:1.5). The gentle rustle of leaves and the distant chirping of crickets create a harmonious soundtrack to the tranquil evening.",
+            "negative_prompt": "dark, blurry, fast, cold, artificial",
+            "video_path": "../videos/Camping_with_dog(vpe-ko).mp4"
+        }
+    ]
+}
+

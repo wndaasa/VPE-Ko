@@ -1,0 +1,17 @@
+{
+    "Dog_in_airplane": [
+        {
+            "type": "user",
+            "prompt": "비행기에서 기내식 먹고있는 강아지 영상 만들어줘",
+            "negative_prompt": "",
+            "video_path": "../videos/Dog_in_airplane(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A pink-lit interior of an airplane cabin (at night:2.0) reveals a cozy atmosphere as a small table with a dim light (shining brightly:2.5) illuminates the scene. A small dog, sitting on a seat, delicately nibbles on a fish dish with a joyful sparkle in its eyes, its paws resting calmly on the tray. The camera captures the scene from the side, showcasing the dog's focused eating alongside the window, which reflects the soft glow of the cabin. In the background, a gentle hum of the aircraft provides a soothing backdrop, while the ambient lighting casts a warm and tranquil ambiance over the entire space.",
+            "negative_prompt": "dark, chaotic, fast-paced, cold, harsh",
+            "video_path": "../videos/Dog_in_airplane(vpe-ko).mp4"
+        }
+    ]
+}
+

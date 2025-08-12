@@ -1,0 +1,17 @@
+{
+    "Sunset": [
+        {
+            "type": "user",
+            "prompt": "The sun is setting beyond the horizon. The sea is calm with gentle waves, and the camera captures this scene from the front.",
+            "negative_prompt": "",
+            "video_path": "../videos/Sunset(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "The horizon stretches endlessly, where the (sunset:2.5) paints the sky in hues of orange and pink, casting a warm glow over the vast expanse of (the ocean:2.0). Gentle waves lap against the sandy shore, leaving a trail of foamy patterns behind. Above, wispy clouds drift lazily, reflecting the fiery colors of the setting sun. A soft breeze whispers across the beach, carrying the scent of salt and sea, adding a serene ambiance to the scene. As the day draws to a close, the (sun:1.8) sinks lower, its light bathing everything in a golden hue, inviting viewers to bask in the tranquil beauty of nature's farewell.",
+            "negative_prompt": "",
+            "video_path": "../videos/Sunset(vpe-ko).mp4"
+        }
+    ]
+}
+

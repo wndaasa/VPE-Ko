@@ -1,0 +1,17 @@
+{
+    "Shootout": [
+        {
+            "type": "user",
+            "prompt": "축구 승부차기 영상",
+            "negative_prompt": "",
+            "video_path": "../videos/Shootout(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "The tension-filled atmosphere of a soccer penalty shootout unfolds as (the Liverpool goalkeeper:2.5) stands firm, eyes locked onto (the striker's approach:2.0). The sun casts a bright natural light, illuminating the green field and the roaring crowd in the (stands:1.5) behind. Each player's intense focus and determination are palpable, as the ball arcs through the air with a decisive thud, marking the culmination of a fiercely contested match.",
+            "negative_prompt": "dark, blurry, slow, empty, dim",
+            "video_path": "../videos/Shootout(vpe-ko).mp4"
+        }
+    ]
+}
+

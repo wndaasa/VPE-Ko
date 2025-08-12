@@ -1,0 +1,17 @@
+{
+    "Candy": [
+        {
+            "type": "user",
+            "prompt": "캔디와 과자가 가득한 테이블 앞에서 행복한 표정으로 과자를 먹는 사람",
+            "negative_prompt": "인간 심리적으로 혐오감이나 불쾌감을 줄 수 있는 형태",
+            "video_path": "../videos/Candy(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A cozy room (1.5) is illuminated by warm artificial lights (2.0) as a joyful little girl (3.0), around 5-7 years old, sits at a table overflowing with candies and snacks (2.5). Her eyes sparkle with delight as she picks up a colorful candy (2.0), savoring each bite with pure happiness. A soft blanket (1.8) draped over her lap adds to the comfort of the scene, while the walls are adorned with playful decorations (1.5) that reflect her vibrant personality. The camera captures the moment from a close-up, front-facing angle (2.0), highlighting her innocent smile and the joy radiating from her every movement.",
+            "negative_prompt": "dark, cloudy, sad, fast, outdoors",
+            "video_path": "../videos/Candy(vpe-ko).mp4"
+        }
+    ]
+}
+
