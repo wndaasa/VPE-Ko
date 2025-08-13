@@ -1,0 +1,17 @@
+{
+    "One_side_love": [
+        {
+            "type": "user",
+            "prompt": "10년간 짝사랑한 여성에게 마음을 전하러 꽃을 들고 찾아갔지만 여성이 다른 남성과 화기애애하게  있는 모습을 본 상황",
+            "negative_prompt": "",
+            "video_path": "../videos/One_side_love(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A man stands in the twilight, holding a bouquet of flowers, his eyes fixated on a couple laughing joyfully nearby. The golden hour light casts a warm glow over the scene, highlighting the contrast between his solitary figure and the couple’s intimate moment. (His deep gaze:2.0) pierces through the vibrant colors of the setting sun, (the couple's laughter:1.8) echoing softly in the background. The camera, fixed and steady, captures the poignant moment from a specific angle, emphasizing the distance between the man and the couple, (the bouquet of flowers:2.5) a symbol of his unrequited love lingering in the air.",
+            "negative_prompt": "dark, harsh, loud, cold, distant, fast",
+            "video_path": "../videos/One_side_love(vpe-ko).mp4"
+        }
+    ]
+}
+

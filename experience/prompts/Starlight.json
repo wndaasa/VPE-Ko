@@ -9,7 +9,7 @@
         {
             "type": "vpe-ko", 
             "prompt": "A vast prairie stretches out under the starlit sky, where the (stars:2.5) twinkle like tiny diamonds scattered across the velvet expanse. Above, the (Milky Way:2.0) arches gracefully, its luminous path weaving through the night sky. In the foreground, the soft glow of (moonlight:1.8) casts a gentle light over the grassy expanse, creating a serene and peaceful atmosphere. The camera remains fixed, capturing the tranquil beauty of this celestial display, as the (evening breeze:1.5) whispers through the tall blades of grass, adding a subtle sense of movement and warmth to the scene. The overall effect is one of awe and tranquility, inviting viewers to lose themselves in the wonder of the night sky.",
-            "negative_prompt": "",
+            "negative_prompt": "fast, blurry, artificial",
             "video_path": "../videos/Starlight(vpe-ko).mp4"
         }
     ]

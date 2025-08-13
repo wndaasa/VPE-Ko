@@ -1,0 +1,16 @@
+{
+    "Rain": [
+        {
+            "type": "user",
+            "prompt": "우천취소로 아쉬운 팬들을 위해 우천 세레머니를 하는 야구선수",
+            "negative_prompt": "",
+            "video_path": "../videos/Rain(user).mp4"    
+        },
+        {
+            "type": "vpe-ko", 
+            "prompt": "A bustling baseball stadium under heavy rain, where the audience dons raincoats and umbrellas, creates a unique atmosphere of anticipation. The camera pans quickly across the entire field, capturing the vibrant energy of the crowd. A 30-year-old handsome player, with a determined look on his face, steps onto the field with grace and poise. The natural light filtering through the raindrops casts a soft, ethereal glow over the scene. In a moment of unexpected joy, the player breaks into a lively dance, his movements synchronized with the rhythm of the falling rain, inviting the cheering fans to join in the celebration. His gestures are filled with warmth and gratitude, as if thanking each fan for their unwavering support. (A 30-year-old handsome player:2.5) dances joyfully, (the natural light:2.0) filtering through raindrops, and (the vibrant energy of the crowd:1.8) fills the stadium.",
+            "negative_prompt": "dark, blurry, dull, slow, static",
+            "video_path": "../videos/Rain(vpe-ko).mp4"
+        }
+    ]
+}
