@@ -4,7 +4,7 @@
 
 A Study on the Text-to-Video Prompt Engineering System Based on Korean: Focusing on CogVideoX
 
-[![Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12416193)
+[![Paper](https://img.shields.io/badge/Paper-KoreaAI%202025-blue)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12416193)
 
 ---
 
